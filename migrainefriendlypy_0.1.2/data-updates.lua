@@ -6,6 +6,7 @@ data.raw['assembling-machine']["distilator-mk03"].working_sound.sound.filename =
 data.raw['assembling-machine']["distilator-mk03"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
 data.raw['assembling-machine']["distilator-mk04"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
 data.raw['assembling-machine']["distilator-mk04"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+
 data.raw['assembling-machine']["fwf-mk01"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/fwf.ogg"
 data.raw['assembling-machine']["fwf-mk01"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/fwf.ogg"
 data.raw['assembling-machine']["fwf-mk02"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/fwf.ogg"
@@ -14,3 +15,14 @@ data.raw['assembling-machine']["fwf-mk03"].working_sound.sound.filename = "__mig
 data.raw['assembling-machine']["fwf-mk03"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/fwf.ogg"
 data.raw['assembling-machine']["fwf-mk04"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/fwf.ogg"
 data.raw['assembling-machine']["fwf-mk04"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/fwf.ogg"
+
+data.raw['assembling-machine']["pulp-mill"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk01"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk01"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk02"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk02"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk03"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk03"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk04"].working_sound.sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"
+data.raw['assembling-machine']["pulp-mill-mk04"].working_sound.idle_sound.filename = "__migrainefriendlypy__/sounds/distilator.ogg"

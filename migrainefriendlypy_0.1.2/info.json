@@ -1,11 +1,15 @@
 {
   "name": "migrainefriendlypy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "factorio_version": "1.1",
   "title": "Migraine-Friendly Pyanodon Fix",
   "author": "magik8ball",
   "contact": "",
   "homepage": "",
   "description": "removes specific high-frequency sounds from Pyanodon mod pack",
-  "dependencies": ["pycoalprocessing >= 1.7.7", "pyalienlife >= 1.12.0"]
+  "dependencies": [
+	"pycoalprocessing >= 1.7.7", 
+	pyalienlife >= 1.12.0",
+	"pyhightech >= 1.7.6"
+  ]
 }
